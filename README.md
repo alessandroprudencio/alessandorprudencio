@@ -3,7 +3,7 @@
 </div>
   
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alessandro</h1>
-<h3 align="center">I'm a Full Stack Developer passionate about solving problems.</h3>
+<h3 align="center">I'm a Full Cycle Developer passionate about solving problems.</h3>
 
 
 
