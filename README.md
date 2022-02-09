@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[klimpy](https://www.klimpy.com/)**
+- 🔭 I’m currently working on **[Vertical Digital](https://verticaldigital.com.br/)**
 
 - 🌱 I’m currently learning **Microservices Asynchronous Message-Based Communication.**
 
