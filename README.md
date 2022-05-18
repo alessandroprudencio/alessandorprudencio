@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img  alt="welcome"  width="300px" height="300px" src="https://i.ibb.co/Kqkpxym/welcome.png" /></a>
+  <!-- <a href="#"><img  alt="welcome"  width="300px" height="300px" src="https://i.ibb.co/Kqkpxym/welcome.png" /></a> –>
 </div>
   
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alessandro</h1>
