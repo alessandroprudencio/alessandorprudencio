@@ -66,7 +66,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/alessandroprudencio/github-readme-activity-graph"><img alt="Alessandro Prudencio Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=alessandroprudencio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/alessandroprudencio/github-readme-activity-graph"><img alt="Alessandro Prudencio Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=alessandroprudencio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alessandroprudencio&bg_color=292828&color=9e4c98&line=911d89&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
