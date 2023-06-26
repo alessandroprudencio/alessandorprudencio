@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Vertical Digital](https://verticaldigital.com.br/)**
+- 🔭 I’m currently working on **[uMode](https://umode.com.br/)**
 
 - 🌱 I’m currently learning **Microservices Asynchronous Message-Based Communication.**
 
@@ -36,10 +36,9 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://www.elastic.co/pt" target="_blank"> <img src="https://img.icons8.com/?size=512&id=aGBLcugRkYpT&format=png" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.terraform.io" target="_blank"> <img src="https://img.icons8.com/?size=1x&id=kEkT1u7zTDk5&format=png"/> </a>
     <a href="https://adonisjs.com/" target="_blank"> <img src="https://docs.adonisjs.com/icons/android-chrome-192x192.png" width="40" height="40"/> </a>
     <a href="https://nestjs.com/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS - A progressive Node.js framework" width="40" height="40"> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://www.php.net/images/php8/logo_php8_1.svg" width="40" height="40"/> </a>
