@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[uMode](https://umode.com.br/)**
 
-- 🌱 I’m currently learning **Microservices Asynchronous Message-Based Communication.**
+- 🌱 I’m currently learning **DevOps.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -19,7 +19,7 @@
 
 - 🎮 Fun fact **I play CS GO online.**
 
-- 💪 Fun fact **I practice bodybuilding often.**
+- 💪 I like to exercise in my free time.
 
 ## 🚀 Languages and Tools:
 
